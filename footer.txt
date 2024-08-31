@@ -1,0 +1,98 @@
+
+                  <div class="container">
+                       <div class="footer-bg" style="border-top: 2px solid #333;">
+                        <div class="row">
+                          <div class="col-lg-4 col-md-6 col-12">
+                               <div class="footer-logo-area">
+                                <a href="index.html" class="logo">
+                                  <img src="assets/img/RMS Logos/RMS Logo.png" style="width: 120px;" alt="">
+                                </a>
+                                <div class="space20"></div>
+                                <h5 class="text-dark" style="font-size: 16px;">RMS Traders Ltd is supervised under Economic Crime Supervision license of HMRC with reference XSML00000160834</h5>
+                                <div class="space30"></div>
+                                
+                               </div>
+                          </div>
+      
+                          <div class="col-lg col-md-4 col-6">
+                               <div class="single-footer-items">
+                                    <h3>Quick Links</h3>
+      
+                                    <ul class="menu-list">
+                                         <li><a href="services.html">Services</a></li>
+                                         <li><a href="about-us.html">About Us</a></li>
+                                         <li><a href="exchnge-rates.html">Exchange Rates</a></li>
+                                         <li><a href="contact.html">Contact Us</a></li>
+                                         <li><a href="#">Careers</a></li>
+                                    </ul>
+                               </div>
+                          </div>
+
+                          <div class="col-lg col-md-4 col-6">
+                            <div class="single-footer-items">
+                                 <h3>Privacy</h3>
+   
+                                 <ul class="menu-list">
+                                      <li><a href="terms-and-condition.html">Terms and conditions</a></li>
+                                      <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                    
+                                 </ul>
+                            </div>
+                       </div>
+      
+                         
+      
+      
+                          <div class="col-lg-2 col-md-4 col-6">
+                         <div class="single-footer-items" bis_skin_checked="1">
+                                    <h3>Need Help?</h3>
+  
+                                    <ul class="contact-info">
+                                      <li>
+                                        <a href="tel:02085909949" class="d-flex  gap-2" bis_skin_checked="1">
+                                          <i class="fas fa-mobile-alt"></i> +02085909949
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="mailto:info@rmsmoneyexchange.co.uk" class="d-flex justify-content-between gap-2" bis_skin_checked="1">
+                                          <i class="fas fa-envelope"></i> info@rmsmoneyexchange.co.uk
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="#" style="line-height: 1.5;" class="d-flex justify-content-between gap-2" >
+                                          <i class="fas fa-map-marker-alt"></i> 408 Green Lane,  London IG3 9JX
+                                        </a>
+                                      </li>
+                                    </ul>
+                                    
+      
+                                    <ul class="icons">
+                                      <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                      <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
+                                      <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                    </ul>
+                               </div>
+                          </div>
+      
+                     </div>
+
+                    
+                       </div>
+        
+                       <div class="space70"></div>
+                  </div>
+
+                  <div class="copyright-area _relative">
+                    <div class="container">
+                      <div class="row">
+                        <div class="col-md-12 text-center">
+                             <div class="coppyright">
+                               <p>Copyright © 2024 RMS | Powered By <a href="https://www.calyx-solutions.com/" target="_blank">Calyx Solutions</a></p>
+                             </div>
+                        </div>
+                   </div>
+                  </div>
+                    
+               </div>
+      
+   
